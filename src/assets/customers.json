@@ -1,0 +1,19 @@
+{
+    "data" : [
+    { "nombre":"Finn",
+    "texto":"I'm a big deal",
+    "descripcion":"Listen, I've had a pretty messed up day",
+    "foto":"avatar-finn.png"
+    },
+    { "nombre":"Han",
+    "texto":"Look, kid",
+    "descripcion":"I've got enough on my plate as it is, and I",
+    "foto":"avatar-han.png"
+    },
+    { "nombre":"Luke",
+    "texto":"Your thoughts betray you",
+    "descripcion":"I feel the good in you, the conflict",
+    "foto":"avatar-luke.png"
+    }
+    ]
+}

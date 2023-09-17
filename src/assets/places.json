@@ -1,0 +1,14 @@
+{
+    "data" : [
+    { "nombre":"Ciudad 1",
+    "foto":"lugares1.jpg"
+    },
+    { "nombre":"Ciudad 2",
+    "foto":"lugares2.jpg"
+   
+    },
+    { "nombre":"Ciudad 3",
+    "foto":"lugares3.jpg"
+    }
+    ]
+   }

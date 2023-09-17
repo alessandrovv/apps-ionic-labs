@@ -1,0 +1,19 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="defColor">
+    <ion-title>lugares</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">lugares</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-col sizeLg="6" sizeMd="6" sizeXs="12" *ngFor="let place of places">
+    <ion-card>
+      <img class="img-fluid" src="../../assets/imagenes/{{place.foto}}" />
+      <div class="card-title">{{place.nombre}}</div>
+    </ion-card>
+  </ion-col>
+</ion-content>
